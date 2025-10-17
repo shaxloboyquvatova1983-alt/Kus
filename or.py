@@ -9,7 +9,7 @@ API_TOKEN = '7907926145:AAHvHgm4z1CF4xHtCV6LAt04Wyy0LY2rNv8'
 ADMIN_ID = 6852738257
 KARTA = '9860356610242188'
 CHANNEL_LINK = "https://t.me/Sardor_ludoman"
-WEBHOOK_URL = 'https://kus-v3wz.onrender.com'  # ← /webhook qilib qo‘yildi
+WEBHOOK_URL = 'https://kus-1sb5.onrender.com'  # ← /webhook qilib qo‘yildi
 
 bot = TeleBot(API_TOKEN)
 user_data = {}
